@@ -69,6 +69,7 @@
     <Folder Include="dataPackage\MMLU\results\" />
     <Folder Include="logoPackage\" />
     <Folder Include="mainPackage\" />
+    <Folder Include="LogoPicture\" />
     <Folder Include="PDFPackage\" />
     <Folder Include="readingLevelPackage\" />
     <Folder Include="utilitiesPackage\" />
@@ -79,6 +80,7 @@
     <Content Include="dataPackage\MMLU\data\anatomy_test.csv" />
     <Content Include="dataPackage\MMLU\data\astronomy_test.csv" />
     <Content Include="dataPackage\MMLU\data\business_ethics_test.csv" />
+    <Content Include="dataPackage\MMLU\data\car_prices.csv" />
     <Content Include="dataPackage\MMLU\data\clinical_knowledge_test.csv" />
     <Content Include="dataPackage\MMLU\data\college_biology_test.csv" />
     <Content Include="dataPackage\MMLU\data\college_chemistry_test.csv" />
@@ -132,6 +134,7 @@
     <Content Include="dataPackage\MMLU\data\us_foreign_policy_test.csv" />
     <Content Include="dataPackage\MMLU\data\virology_test.csv" />
     <Content Include="dataPackage\MMLU\data\world_religions_test.csv" />
+    <Content Include="LogoPicture\Assignment08pic.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
